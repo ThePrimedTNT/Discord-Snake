@@ -1,6 +1,6 @@
 # Discord Snake Bot
 
-Discord Snake game fully made within discord! You may why this exists, I really don't know... I was just challenged to make one within one hour during a class period at school.
+Discord Snake game fully made within discord! You may ask why this exists, I really don't know... I was just challenged to make one within one hour during a class period at school.
 
 ## Running the Bot
 
